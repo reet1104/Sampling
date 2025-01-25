@@ -46,4 +46,3 @@ Two machine learning models were trained on each sample:
 
 ---
 
-## **Project Structure**
